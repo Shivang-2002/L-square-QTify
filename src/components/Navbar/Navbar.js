@@ -12,7 +12,7 @@ function Navbar({ searchData }) {
         <Logo />
       </Link>
       <Search
-        placeholder="search"
+        placeholder="search a song"
         searchData={searchData}
       />
       <Button>Give Feedback</Button>

@@ -71,7 +71,7 @@ function Search({ searchData, placeholder }) {
           <input
             name="album"
             className={styles.search}
-            placeholder="Search"
+            placeholder="search"
             required
             {...getInputProps()}
           />

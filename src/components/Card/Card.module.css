@@ -1,0 +1,33 @@
+.card {
+    width: 160px;
+    background-color: #1e1e1e;
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .albumImage {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .chipWrapper {
+    display: flex;
+    justify-content: flex-start;
+    padding: 8px;
+    background-color: white;
+  }
+  
+  .chip {
+    font-size: 12px !important;
+    height: 24px;
+    font-weight: 500;
+  }
+  
+  .title {
+    color: white;
+    padding: 8px;
+    font-size: 14px;
+  }
+  
